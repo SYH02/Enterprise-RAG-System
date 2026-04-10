@@ -5,3 +5,4 @@ langgraph
 chromadb
 langchain-chroma
 sentence-transformers
+protobuf==3.20.3
