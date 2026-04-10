@@ -3,4 +3,5 @@ langchain
 langchain-google-genai
 langgraph
 chromadb
+langchain-chroma
 sentence-transformers
